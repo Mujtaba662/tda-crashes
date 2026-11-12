@@ -59,7 +59,7 @@ The first run downloads the data from Yahoo Finance and caches it in `prices.csv
 | `figures/` | Plots used in the write-up |
 
 ## Market explorer
-
+   ![Market explorer](figures/explorer.png)
 `visualize_3d.py` builds `output/market_explorer.html`, which works offline:
 
 - **Top:** price chart for any of the 4 indices or 11 sector ETFs, with the TDA signal in cyan and crash dates in gold. Drag to scroll through time, use the scroll wheel to zoom.
